@@ -70,9 +70,14 @@ Abra o arquivo index.html diretamente no navegador.
 
 ## calculadora-juros-compostos/
 |-- /src           # Pasta para guardar o código-fonte
+
 |   |-- calculo.js  # Arquivo principal com a lógica em JavaScript
+
 |-- /docs          # Pasta para documentações extras
+
 |-- /tests         # Scripts de teste
+
 |-- index.html     # Interface do usuário (planejada)
+
 |-- styles.css     # Estilo do projeto (planejado)
 |-- README.md      # Documentação do projeto
