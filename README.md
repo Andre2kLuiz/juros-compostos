@@ -49,6 +49,7 @@ Navegador moderno (Chrome, Firefox, etc.).
 Clone o Repositório:
 
 git clone https://github.com/Andre2kLuiz/juros-compostos.git
+
 cd calculadora-juros-compostos
 
 Execução Local no Navegador:
