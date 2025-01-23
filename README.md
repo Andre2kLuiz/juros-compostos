@@ -6,7 +6,7 @@ Bem-vindo à Calculadora de Juros Compostos, um projeto simples e intuitivo dese
 
 # Funcionalidades Planejadas
 
-Cálculo de Juros Compostos:
+## Cálculo de Juros Compostos:
 
 Entrada de capital inicial (P).
 
