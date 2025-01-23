@@ -50,19 +50,19 @@ Abra o arquivo index.html diretamente no navegador.
 
 3. **Execução com Node.js**:
 
-Instale dependências, se houver:
+- Instale dependências, se houver:
 
-npm install
+- npm install
 
 Execute o arquivo principal:
 
-node src/calculo.js
+- node src/calculo.js
 
 4. **Teste a Calculadora**:
 
-Insira os valores solicitados.
+- Insira os valores solicitados.
 
-Visualize o resultado do montante acumulado.
+- Visualize o resultado do montante acumulado.
 
 # Estrutura Inicial do Projeto
 
