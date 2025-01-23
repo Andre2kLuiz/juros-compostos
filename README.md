@@ -46,7 +46,7 @@ Navegador moderno (Chrome, Firefox, etc.).
 
 # Passo a Passo
 
-1. Clone o Repositório:
+Clone o Repositório:
 
 git clone https://github.com/TechFlowSolutions/calculadora-juros-compostos.git
 cd calculadora-juros-compostos
