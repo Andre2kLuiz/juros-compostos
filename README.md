@@ -34,7 +34,7 @@ Exportar resultados em formato CSV ou PDF.
 
 Interface gráfica com gráficos e relatórios.
 
-Instruções para Executar o Projeto
+# Instruções para Executar o Projeto
 
 Requisitos Pré-Requisitos
 
@@ -46,7 +46,7 @@ Navegador moderno (Chrome, Firefox, etc.).
 
 # Passo a Passo
 
-Clone o Repositório:
+1. Clone o Repositório:
 
 git clone https://github.com/TechFlowSolutions/calculadora-juros-compostos.git
 cd calculadora-juros-compostos
@@ -71,4 +71,12 @@ Insira os valores solicitados.
 
 Visualize o resultado do montante acumulado.
 
-Estrutura Inicial do Projeto
+# Estrutura Inicial do Projeto
+calculadora-juros-compostos/
+|-- /src           # Pasta para guardar o código-fonte
+|   |-- calculo.js  # Arquivo principal com a lógica em JavaScript
+|-- /docs          # Pasta para documentações extras
+|-- /tests         # Scripts de teste
+|-- index.html     # Interface do usuário (planejada)
+|-- styles.css     # Estilo do projeto (planejado)
+|-- README.md      # Documentação do projeto
