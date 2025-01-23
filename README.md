@@ -1,10 +1,10 @@
 # juros-compostos
 
-Descrição Resumida
+# Descrição Resumida
 
 Bem-vindo à Calculadora de Juros Compostos, um projeto simples e intuitivo desenvolvido em JavaScript. Este sistema permite calcular o montante acumulado com base em um capital inicial, taxa de juros e período de tempo. Ideal para fins educativos e financeiros, a calculadora é projetada para ser fácil de usar e adaptável a diversos cenários.
 
-Funcionalidades Planejadas
+# Funcionalidades Planejadas
 
 Cálculo de Juros Compostos:
 
@@ -44,7 +44,7 @@ Editor de texto ou IDE como Visual Studio Code.
 
 Navegador moderno (Chrome, Firefox, etc.).
 
-Passo a Passo
+# Passo a Passo
 
 Clone o Repositório:
 
