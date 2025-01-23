@@ -52,11 +52,13 @@ Abra o arquivo index.html diretamente no navegador.
 
 - Instale dependências, se houver:
 
-npm install
+   ```bash
+   npm install
 
 - Execute o arquivo principal:
 
-node src/calculo.js
+   ```bash
+   node src/calculo.js
 
 4. **Teste a Calculadora**:
 
