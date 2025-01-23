@@ -17,3 +17,23 @@ function calcularJurosCompostos(
     capitalInicial * Math.pow(1 + taxa / frequencia, frequencia * periodo);
   return montante.toFixed(2);
 }
+
+// Exemplo de uso
+const capitalInicial = 1000; // Capital inicial (P)
+const taxaJuros = 5; // Taxa de juros anual em % (r)
+const periodo = 2; // Tempo em anos (t)
+const frequencia = 12; // Capitalização mensal (n)
+
+try {
+  const resultado = calcularJurosCompostos(
+    capitalInicial,
+    taxaJuros,
+    periodo,
+    frequencia
+  );
+  console.log(`O montante acumulado é: R$ ${resultado}`);
+} catch (error) {
+  console.error(error.message);
+}
+
+module.exports = { calcularJurosCompostos };
